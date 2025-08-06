@@ -1,0 +1,3 @@
+Power System Fault Detection and Classification 
+Design a machine learning model to detect and classify different types of faults in a power distribution system. Using electrical measurement data (e.g., voltage and current phasors), the model should be able to distinguish between normal operating conditions and various fault conditions (such as line-to-ground, line-to-line, or three-phase faults). The objective is to enable rapid and accurate fault identification, which is crucial for maintaining power grid stability and reliability.
+<img width="7160" height="290" alt="image" src="https://github.com/user-attachments/assets/2535b0d0-6a2f-4f14-bc5c-af2a05af1be1" />
